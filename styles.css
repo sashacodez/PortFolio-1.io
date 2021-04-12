@@ -125,7 +125,7 @@ img:hover {
 /* Welcome section */
 
  .welcome-container {
-    height: 70vh;
+    height: 60vh;
     color:var(--clr--green1);
  }
 .welcome-container > * {
